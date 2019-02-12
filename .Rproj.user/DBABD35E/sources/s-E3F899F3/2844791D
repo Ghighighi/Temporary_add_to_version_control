@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549991427660.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2844791D",
+    "lastKnownWriteTime" : 1549991463,
+    "last_content_update" : 1549991463540,
+    "path" : "C:/Users/pc/Desktop/Course_directory/Temporary_add_to_version_control/test_VC.R",
+    "project_path" : "test_VC.R",
+    "properties" : {
+        "cursorPosition" : "0,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
